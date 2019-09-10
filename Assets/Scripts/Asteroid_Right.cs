@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Asteroid_Right : MonoBehaviour
 {
-    public float speed = 1.5f;
+    public static float speed = 1.5f;
     Vector3 startPos;
 
 
